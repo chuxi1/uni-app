@@ -1,0 +1,10 @@
+.container {
+  background-color: rgba(71, 143, 214, 0.1);
+  display: flex;
+  justify-content: center;
+}
+.container .context {
+  width: 80%;
+  line-height: 40px;
+}
+

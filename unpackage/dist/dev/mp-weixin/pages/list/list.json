@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "新闻页面",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "u-swiper": "/node-modules/uview-ui/components/u-swiper/u-swiper"
+  }
+}

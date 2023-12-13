@@ -1,0 +1,26 @@
+.container {
+  height: 100vh;
+  width: 100%;
+  background-color: rgba(71, 143, 214, 0.1);
+}
+.container .header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 5.5%;
+  width: 100%;
+  background: #f8f8f8;
+}
+.container .context {
+  height: 95%;
+  width: 100%;
+}
+.container .context .fram {
+  height: 115px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  line-height: 28px;
+}
+

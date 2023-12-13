@@ -1,0 +1,77 @@
+.container .scroll-list {
+  display: flex;
+  flex-direction: column;
+}
+.container .scroll-list__goods-item {
+  margin-right: 20px;
+}
+.container .scroll-list__goods-item__image {
+  width: 60px;
+  height: 60px;
+  border-radius: 4px;
+}
+.container .scroll-list__goods-item__text {
+  color: #f56c6c;
+  text-align: center;
+  font-size: 12px;
+  margin-top: 5px;
+}
+.container .scroll-list__show-more {
+  background-color: #fff0f0;
+  border-radius: 3px;
+  padding: 3px 6px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.container .scroll-list__show-more__text {
+  font-size: 12px;
+  width: 12px;
+  color: #f56c6c;
+  line-height: 16px;
+}
+.container .scroll-list__line {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+}
+.container .scroll-list__line__item {
+  margin-right: 15px;
+}
+.container .scroll-list__line__item__image {
+  width: 61px;
+  height: 48px;
+}
+.container .scroll-list__line__item__text {
+  margin-top: 5px;
+  color: #606266;
+  font-size: 12px;
+  text-align: center;
+}
+.container .scroll-list__line__item--no-margin-right {
+  margin-right: 0;
+}
+.container .context {
+  display: flex;
+  padding: 0 20px 10px 20px;
+}
+.container .context .farm {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+  margin-right: 40px;
+  height: 80px;
+}
+.container .context .farm .icon {
+  padding: 10px;
+  background-color: #5af;
+  border-radius: 10px;
+}
+.grid-text {
+  font-size: 14px;
+  color: #909399;
+  padding: 10rpx 0 20rpx 0rpx;
+  box-sizing: border-box;
+}
+

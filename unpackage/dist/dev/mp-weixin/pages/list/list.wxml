@@ -1,0 +1,1 @@
+<u-swiper vue-id="2e637200-1" list="{{list3}}" indicator="{{true}}" indicatorMode="line" circular="{{true}}" bind:__l="__l"></u-swiper>
